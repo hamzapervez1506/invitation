@@ -34,12 +34,11 @@ body {
     display: inline;
     position: absolute;
     margin: 0 auto;
-    margin-top: 10%;
     height: auto;
-    width: 90%; 
+    width: 101.5%; 
     object-fit: cover;
     top: 15%; 
-    left: 13%;
+    left: 3%;
     transform: translate(0%, 0%) scale(1.50); 
     
 }
